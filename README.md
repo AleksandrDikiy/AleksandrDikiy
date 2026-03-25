@@ -5,7 +5,7 @@ I specialize in building scalable web applications, custom WordPress solutions, 
 
 ---
 
-### 🚀 Featured Project: [FamilyBudget](https://github.com/your-username/family-budget)
+### 🚀 Featured Project: [FamilyBudget](https://github.com/AleksandrDikiy/FamilyBudget-Plagin-WordPress)
 A comprehensive open-source WordPress plugin for personal finance management.
 * **Tech Stack:** PHP 8.x, MySQL (Advanced Indexing), JavaScript (AJAX), WordPress API.
 * **Key Achievement:** Built a secure multi-family data isolation system with real-time currency integration.
@@ -21,11 +21,11 @@ A comprehensive open-source WordPress plugin for personal finance management.
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AleksandrDikiy&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleksandrDikiy&layout=compact&theme=tokyonight)
 
 ---
 
 ### 📫 How to reach me:
-* **LinkedIn:** [Your Profile Link]
+* **LinkedIn:** [https://www.linkedin.com/in/oleksandr-dykyi/]
 * **Project Site:** [fbudget.pp.ua]
