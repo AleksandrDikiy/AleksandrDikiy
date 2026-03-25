@@ -12,6 +12,11 @@ A comprehensive open-source WordPress plugin for personal finance management.
 * **Tech Stack:** PHP 8.x, MySQL (Advanced Indexing), JavaScript (AJAX), WordPress API.
 * **Key Achievement:** Built a secure multi-family data isolation system with real-time currency integration via NBU API.
 
+#### 📉 [FamilyBudget Bot](https://github.com/AleksandrDikiy/FamilyBudget-Bot-Python) (Python)
+An autonomous synchronization script for reliable financial data delivery.
+* **Tech Stack:** Python 3.10+, Requests, Schedule, Logging.
+* **Key Achievement:** Developed a standalone tool for robust fetching of official exchange rates from the National Bank of Ukraine (NBU) API and seamless injection into the Family Budget WP plugin.
+
 #### 🏥 [Medical Statistics](https://github.com/AleksandrDikiy/Medical_Statistics_Plagin_WordPress) (HealthTech)
 A specialized medical reporting system for WordPress to track and analyze clinical data.
 * **Tech Stack:** PHP 8.x, MySQL, WordPress Admin API, Chart.js.
@@ -20,7 +25,7 @@ A specialized medical reporting system for WordPress to track and analyze clinic
 #### 🤖 [Monobank Bot](https://github.com/AleksandrDikiy/mono-bot) (Python)
 An asynchronous Telegram bot for real-time financial tracking via Monobank Public API.
 * **Tech Stack:** Python 3.10+, Aiogram 3.x, Aiohttp, Python-dotenv.
-* **Key Achievement:** Implemented a non-blocking architecture for instant balance checks and transaction history retrieval with secure token management.
+* **Key Achievement:** Implemented a non-blocking architecture for instant balance checks and transaction history retrieval.
 
 ---
 
