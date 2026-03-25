@@ -1,7 +1,7 @@
 # Hi there, I'm Oleksandr 👋
 
 ### 👨‍💻 Senior PHP Developer & Software Architect
-I specialize in building scalable web applications, custom WordPress solutions, and high-performance backend systems. Currently focused on financial management tools, healthcare analytics, and renewable energy infrastructure projects.
+I specialize in building scalable web applications, custom WordPress solutions, and high-performance backend systems. Currently focused on financial management tools, healthcare analytics, and automated banking integrations.
 
 ---
 
@@ -15,15 +15,20 @@ A comprehensive open-source WordPress plugin for personal finance management.
 #### 🏥 [Medical Statistics](https://github.com/AleksandrDikiy/Medical_Statistics_Plagin_WordPress) (HealthTech)
 A specialized medical reporting system for WordPress to track and analyze clinical data.
 * **Tech Stack:** PHP 8.x, MySQL, WordPress Admin API, Chart.js.
-* **Key Achievement:** Developed a secure role-based access system for medical practitioners to visualize patient treatment dynamics and healthcare trends.
+* **Key Achievement:** Developed a secure role-based access system for medical practitioners to visualize patient treatment dynamics.
+
+#### 🤖 [Monobank Bot](https://github.com/AleksandrDikiy/mono-bot) (Python)
+An asynchronous Telegram bot for real-time financial tracking via Monobank Public API.
+* **Tech Stack:** Python 3.10+, Aiogram 3.x, Aiohttp, Python-dotenv.
+* **Key Achievement:** Implemented a non-blocking architecture for instant balance checks and transaction history retrieval with secure token management.
 
 ---
 
 ### 🛠 Tech Stack & Tools
-* **Languages:** PHP (8.x migration expert), JavaScript, SQL.
-* **Frameworks/CMS:** WordPress (Plugin & Theme Development), Joomla (Legacy Migration).
+* **Languages:** PHP (8.x migration expert), Python, JavaScript, SQL.
+* **Frameworks/CMS:** WordPress (Plugin & Theme Development), Aiogram (Bot Development), Joomla.
 * **DevOps & Servers:** Nginx configuration, SSH security, Ubuntu/Debian administration.
-* **IDEs:** Proud user of JetBrains ecosystem (PhpStorm).
+* **IDEs:** Proud user of JetBrains ecosystem (PhpStorm, PyCharm).
 
 ---
 
